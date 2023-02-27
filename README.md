@@ -1,16 +1,13 @@
 # firebase_uploader
 
-A new Flutter project.
+Demo para subir archivos en firebase storage: https://youtu.be/5Ip83bmg4pE
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### Para IOS y Android usamos:
+https://pub.dev/packages/image_picker
 
-A few resources to get you started if this is your first Flutter project:
+### Para las demas plataformas:
+https://pub.dev/packages/file_picker
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Requerimientos: 
+Configurar tu firebase storage con https://firebase.flutter.dev/docs/firestore/usage/

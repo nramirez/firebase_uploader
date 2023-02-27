@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "183949526615",
+    "project_id": "theuploader-24130",
+    "storage_bucket": "theuploader-24130.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183949526615:android:cda9413538ac683aafc512",
+        "android_client_info": {
+          "package_name": "com.example.firebase_uploader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183949526615-8grdsvse4hj7n2n7cfthaci97lqcn7md.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK2SHLtWy4BicVQ519SH4hOKVfLaSHRwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183949526615-8grdsvse4hj7n2n7cfthaci97lqcn7md.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "183949526615-9dvfhnsu8umvesc437d7t9n6m06l8037.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseUploader"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
